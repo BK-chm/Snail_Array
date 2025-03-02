@@ -17,7 +17,7 @@
 
 
 ## 결과값 출력
-
+![Image](https://github.com/user-attachments/assets/ae77f00b-530b-4bde-9ccc-fba405ae5cfd)
 
 
 ## 후기
