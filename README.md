@@ -6,7 +6,7 @@
 1. 0이상의 양의 정수 N을 입력받는다.
 2. 1~N*N까지의 자연수를 2차원 배열에 저장한다.
 3. 저장하는 방법은 다음과 같다.
-
+![Image](https://github.com/user-attachments/assets/fc0bc24f-e222-4501-9105-f2248934a634)
 
 
 ## 언어 및 환경
